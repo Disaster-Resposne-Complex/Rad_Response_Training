@@ -1,14 +1,3 @@
-# Color definition for Tinkercad Obj File 2015
-
-newmtl color_16448250
-Ka 0 0 0 
-Kd 0.9803921568627451 0.9803921568627451 0.9803921568627451
-d 1
-illum 0.0
-
-newmtl color_6383466
-Ka 0 0 0 
-Kd 0.3803921568627451 0.403921568627451 0.41568627450980394
-d 1
-illum 0.0
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:67b9dd78764c940d920446bc18b489aca28c2da7e08f97fa2c0fad2ae35c824f
+size 261
