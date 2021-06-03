@@ -1,25 +1,3 @@
-{
-    "name": "Oculus.VR",
-    "references": [],
-    "optionalUnityReferences": [],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "versionDefines": [
-        {
-            "name": "com.unity.xr.management",
-            "expression": "",
-            "define": "USING_XR_MANAGEMENT"
-        },
-        {
-            "name": "com.unity.xr.oculus",
-            "expression": "",
-            "define": "USING_XR_SDK_OCULUS"
-        },
-        {
-            "name": "com.unity.xr.oculus",
-            "expression": "1.4.0",
-            "define": "USING_COMPATIBLE_OCULUS_XR_PLUGIN_VERSION"
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8fc7539e706ef20c82e2f3adcc68832bb00fb72d65e9fd806722e77d24ce1a4
+size 645
