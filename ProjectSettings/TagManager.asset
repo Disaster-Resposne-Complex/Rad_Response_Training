@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Meter
   - Terrain
+  - source
   layers:
   - Default
   - TransparentFX
