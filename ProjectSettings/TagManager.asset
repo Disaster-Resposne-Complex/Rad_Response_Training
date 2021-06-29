@@ -7,6 +7,7 @@ TagManager:
   - Meter
   - Terrain
   - source
+  - cone
   layers:
   - Default
   - TransparentFX
