@@ -9,6 +9,7 @@ TagManager:
   - source
   - cone
   - Bomb
+  - Attach
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Player
   - Static
   - Hand
-  - 
+  - Attach
   - 
   - 
   - 
