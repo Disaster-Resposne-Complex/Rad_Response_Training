@@ -10,6 +10,7 @@ TagManager:
   - cone
   - Bomb
   - Attach
+  - goal
   layers:
   - Default
   - TransparentFX
