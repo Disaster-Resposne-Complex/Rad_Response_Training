@@ -12,6 +12,7 @@ TagManager:
   - Attach
   - goal
   - NPC
+  - box
   layers:
   - Default
   - TransparentFX
